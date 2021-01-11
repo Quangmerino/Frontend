@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+html{
+    color: black;
+}
+li{
+    list-style: none;
+}
+.carousel-item img{
+    width: 100%;
+}
+p{
+    text-align: center;
+    padding: 1em 0;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    padding: 1.2em 0;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 1.5em;
+}
+ul li a{
+    color: black;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: rgb(170, 165, 165);
+}
+.social{
+    position: fixed;
+    padding-left: 2em;
+    top: 15em;
+}
+.prd li a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: grey;
+}
